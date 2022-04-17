@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix=".png">
+    <file>image/Anime.png</file>
+    <file>image/download.png</file>
+    <file>image/history.png</file>
+    <file>image/home.png</file>
+    <file>image/search.png</file>
+    <file>image/setting.png</file>
+    <file>image/star.png</file>
+  </qresource>
+</RCC>
