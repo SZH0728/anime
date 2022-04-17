@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="picture">
+    <file>image/Anime.png</file>
+    <file>image/delete.png</file>
+    <file>image/download.png</file>
+    <file>image/search.png</file>
+    <file>image/setting.png</file>
+  </qresource>
+</RCC>
